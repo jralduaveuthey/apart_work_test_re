@@ -1,0 +1,5 @@
+openai
+requests
+aiohttp
+litellm
+python-dotenv
